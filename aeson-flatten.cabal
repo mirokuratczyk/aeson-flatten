@@ -1,8 +1,8 @@
 name:                aeson-flatten
-version:             0.1.0.0
+version:             0.1.0.2
 synopsis:            JSON flatten for Aeson
 description:         Please see README.md
-homepage:            https://github.com/githubuser/aeson-flatten#readme
+homepage:            https://github.com/j1r1k/aeson-flatten#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Jiri Marsicek
@@ -37,4 +37,4 @@ test-suite aeson-flatten-test
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/aeson-flatten
+  location: https://github.com/j1r1k/aeson-flatten
